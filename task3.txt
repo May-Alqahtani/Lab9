@@ -1,0 +1,7 @@
+102 ?- calculate.
+Enter the first number: 10.
+Enter the second number: |: 20.
+Enter the third number: |: 30.
+Total = 60
+Average = 20
+true.

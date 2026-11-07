@@ -1,0 +1,5 @@
+107 ?- sumlist([1,2,5,7], Sum).
+Sum = 15.
+
+108 ?- sumlist([], Sum).
+Sum = 0.

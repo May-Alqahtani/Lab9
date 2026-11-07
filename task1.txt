@@ -1,0 +1,12 @@
+
+102 ?- boolean(true, true, R).
+R = true.
+
+103 ?- boolean(true, false, R).
+R = false.
+
+104 ?- boolean(false, true, R).
+R = false.
+
+105 ?- boolean(false, false, R).
+R = true.
